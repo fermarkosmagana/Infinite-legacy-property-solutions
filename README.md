@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sell Your House or Mobile Home Fast in Coachella Valley | Infinite Legacy Property Solutions</title>
+  <meta name="description" content="We buy houses and mobile homes in Palm Springs, Indio, Cathedral City, Palm Desert, La Quinta, Coachella, and surrounding areas. Get a fair cash offer today — no repairs, no commissions.">
+  <meta name="keywords" content="sell my house fast Coachella Valley, sell my mobile home fast Coachella Valley, cash home buyers Palm Springs, we buy houses Indio, sell my trailer home Cathedral City, mobile home cash buyers Palm Desert, manufactured home buyers La Quinta, Rancho Mirage, Desert Hot Springs, Bermuda Dunes, Mecca, Thermal, Oasis, Thousand Palms, North Palm Springs, Vista Santa Rosa, Whitewater, Sky Valley">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Sell Your House or Mobile Home Fast in Coachella Valley | Infinite Legacy Property Solutions">
+  <meta property="og:description" content="Local cash buyers in Palm Springs, Indio, Cathedral City, La Quinta, Palm Desert, and nearby. Sell your house or mobile home fast for cash.">
+  <meta property="og:image" content="hero.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yourusername.github.io/infinite-legacy-site/">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Sell Your House or Mobile Home Fast in Coachella Valley">
+  <meta name="twitter:description" content="We buy houses and mobile homes for cash across the Coachella Valley. No repairs. No commissions. Close fast.">
+  <meta name="twitter:image" content="hero.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.png" type="image/png">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+
+  <style>
+    body { background-color: #fff; color: #222; }
+    header img.logo { height: 55px; }
+    .hero {
+      text-align: center;
+      padding: 3rem 1rem;
+      background: url('hero.jpg') center/cover no-repeat;
+      color: white;
+    }
+    .hero h1 { font-size: 2.5rem; font-weight: 700; }
+    .hero p { font-size: 1.2rem; }
+    .hero a { background-color: #ff6600; color: white; }
+    section img { border-radius: 6px; }
+    footer { text-align: center; margin-top: 2rem; padding: 1rem 0; }
+    .phone { font-weight: bold; color: #ff6600; }
+  </style>
+
+  <!-- Schema Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Infinite Legacy Property Solutions",
+    "image": "logo.png",
+    "url": "https://yourusername.github.io/infinite-legacy-site/",
+    "telephone": "(760) 848-0809",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Coachella Valley",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      "Palm Springs", "Cathedral City", "Rancho Mirage", "Palm Desert", "Indian Wells", "La Quinta", "Indio", "Coachella",
+      "Desert Hot Springs", "Thousand Palms", "Bermuda Dunes", "Mecca", "Thermal", "Oasis", "Sky Valley",
+      "North Palm Springs", "Garnet", "Vista Santa Rosa", "Mountain Center", "Whitewater"
+    ],
+    "keywords": "sell my house fast, sell my mobile home fast, manufactured home buyers, trailer home buyers, cash home buyers, Coachella Valley"
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="container-fluid">
+    <ul>
+      <li><img src="logo.png" alt="Infinite Legacy Property Solutions Logo" class="logo"></li>
+    </ul>
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#sell">Sell Your Home</a></li>
+      <li><a href="#testimonials">Testimonials</a></li>
+      <li><a href="#contact" role="button">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero">
+    <h1>Sell Your Home or Mobile Home Fast — Hassle-Free, No Repairs Needed</h1>
+    <p>Get a fair cash offer and close on your timeline — no agents, no commissions, no stress.</p>
+    <p class="phone">📞 Call us now: <a href="tel:+17608480809">(760) 848-0809</a></p>
+    <a href="#sell">Get My Cash Offer Now</a>
+  </header>
+
+  <main class="container">
+
+    <!-- About Us -->
+    <div class="grid" id="about">
+      <section>
+        <hgroup>
+          <h2>About Us</h2>
+          <h3>Local Buyers You Can Trust</h3>
+        </hgroup>
+        <p>At <strong>Infinite Legacy Property Solutions</strong>, we specialize in helping homeowners and mobile home owners who need a fast, reliable way to sell their property. As local buyers right here in the Coachella Valley, we understand the unique needs of homeowners in our community.</p>
+        <p>Whether it’s a mobile home, manufactured home, or single-family property, our solutions are designed to help you move forward quickly and confidently. No repairs, no commissions, just honest offers and stress-free closings.</p>
+        <figure>
+          <img src="about.jpg" alt="Neighborhood mobile home in Coachella Valley with palm trees and mountains">
+          <figcaption>Serving homeowners across Palm Springs, Indio, Cathedral City, La Quinta, and nearby.</figcaption>
+        </figure>
+      </section>
+    </div>
+
+    <!-- Sell Your Home -->
+    <div class="grid" id="sell">
+      <section>
+        <hgroup>
+          <h2>Get a Cash Offer for Your Mobile Home or House Today</h2>
+          <h3>Fast, fair, and stress-free</h3>
+        </hgroup>
+        <p>No matter the condition, situation, or timeline — we’re here to help. From mobile homes and manufactured homes to single-family houses, we buy properties as-is across the Coachella Valley.</p>
+        <form class="grid">
+          <input type="text" name="fullname" placeholder="Full Name" required>
+          <input type="text" name="address" placeholder="Property Address" required>
+          <input type="tel" name="phone" placeholder="Phone Number" required>
+          <input type="email" name="email" placeholder="Email" required>
+          <select name="condition" required>
+            <option value="">Property Condition</option>
+            <option>Excellent</option>
+            <option>Good</option>
+            <option>Fair</option>
+            <option>Needs Repairs</option>
+            <option>Major Repairs Needed</option>
+          </select>
+          <textarea name="repairs" placeholder="Repairs Needed?"></textarea>
+          <button type="submit" onclick="event.preventDefault()">Get My Offer</button>
+        </form>
+        <figure>
+          <img src="sell.jpg" alt="Mobile home with For Sale sign in Indio, Coachella, or Palm Desert">
+        </figure>
+      </section>
+    </div>
+
+    <!-- Testimonials -->
+    <div class="grid" id="testimonials">
+      <section>
+        <hgroup>
+          <h2>Why Homeowners Choose Infinite Legacy Property Solutions</h2>
+        </hgroup>
+        <p><em>“I needed to sell quickly, and they made the process unbelievably easy. No pressure, just honesty and professionalism. I had my cash in hand within days.”</em><br>— Maria G., Palm Springs</p>
+        <p><em>“We didn’t have the money to fix up our mobile home. Infinite Legacy Property Solutions gave us a fair offer and handled everything. We couldn’t be happier.”</em><br>— James & Ana R., Indio</p>
+        <p><em>“They were upfront and transparent from the beginning. No surprises, no hidden fees. Just results.”</em><br>— Carlos L., Cathedral City</p>
+        <figure>
+          <img src="testimonials.jpg" alt="Happy couple after selling their mobile home in Palm Desert">
+        </figure>
+      </section>
+    </div>
+
+  </main>
+
+  <!-- Contact -->
+  <section aria-label="Contact" id="contact">
+    <div class="container">
+      <article>
+        <hgroup>
+          <h2>Your Solution Starts Here</h2>
+          <h3>Contact us today</h3>
+        </hgroup>
+        <p>We’re here to listen and provide options that work for you. The sooner you reach out, the sooner we can
